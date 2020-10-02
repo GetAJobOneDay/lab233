@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.layout.FlowPane?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.Button?>
+<FlowPane xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1"
+          fx:controller="controller.MainViewController">
+        <children>
+            <AnchorPane prefHeight="240.0" prefWidth="200.0">
+                <Label layoutX="20" layoutY="20" text="Drop pdf file here"/>
+                <ListView fx:id="inputListView" layoutX="10" layoutY="45" prefHeight="150" prefWidth="180"
+                          style="-fx-background-color: lightblue;"/>
+                <Button fx:id="btn" layoutX="120" layoutY="0" text="Start Here" />
+                <ProgressBar fx:id="progressBar" layoutY="200" layoutX="20" prefWidth="150" progress="0"/>
+            </AnchorPane>
+            <Pane prefWidth="200" prefHeight="200">
+                <children>
+                    <ListView fx:id="listview" prefHeight="240" prefWidth="200"/>
+                </children>
+            </Pane>
+        </children>
+</FlowPane>
