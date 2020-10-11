@@ -1,0 +1,262 @@
+2020-10-11 22:34:27,232 [Thread-3] INFO  model.Character - x:30 y:239 vx:1 vy:0
+2020-10-11 22:34:27,234 [Thread-3] INFO  model.Character - x:30 y:236 vx:3 vy:0
+2020-10-11 22:34:27,334 [Thread-3] INFO  model.Character - x:50 y:239 vx:3 vy:0
+2020-10-11 22:34:27,334 [Thread-3] INFO  model.Character - x:30 y:236 vx:3 vy:0
+2020-10-11 22:34:27,434 [Thread-3] INFO  model.Character - x:68 y:240 vx:3 vy:0
+2020-10-11 22:34:27,434 [Thread-3] INFO  model.Character - x:30 y:236 vx:3 vy:0
+2020-10-11 22:34:27,534 [Thread-3] INFO  model.Character - x:86 y:241 vx:3 vy:0
+2020-10-11 22:34:27,534 [Thread-3] INFO  model.Character - x:30 y:236 vx:3 vy:0
+2020-10-11 22:34:27,634 [Thread-3] INFO  model.Character - x:107 y:241 vx:3 vy:0
+2020-10-11 22:34:27,634 [Thread-3] INFO  model.Character - x:30 y:236 vx:3 vy:0
+2020-10-11 22:34:27,934 [Thread-3] INFO  model.Character - x:125 y:241 vx:3 vy:0
+2020-10-11 22:34:27,934 [Thread-3] INFO  model.Character - x:30 y:236 vx:3 vy:0
+2020-10-11 22:34:28,034 [Thread-3] INFO  model.Character - x:146 y:241 vx:3 vy:0
+2020-10-11 22:34:28,034 [Thread-3] INFO  model.Character - x:30 y:236 vx:3 vy:0
+2020-10-11 22:34:28,134 [Thread-3] INFO  model.Character - x:164 y:241 vx:3 vy:0
+2020-10-11 22:34:28,134 [Thread-3] INFO  model.Character - x:30 y:236 vx:3 vy:0
+2020-10-11 22:34:28,234 [Thread-3] INFO  model.Character - x:182 y:242 vx:3 vy:0
+2020-10-11 22:34:28,234 [Thread-3] INFO  model.Character - x:30 y:236 vx:3 vy:0
+2020-10-11 22:34:28,334 [Thread-3] INFO  model.Character - x:200 y:243 vx:3 vy:0
+2020-10-11 22:34:28,334 [Thread-3] INFO  model.Character - x:30 y:236 vx:3 vy:0
+2020-10-11 22:34:28,434 [Thread-3] INFO  model.Character - x:221 y:243 vx:3 vy:0
+2020-10-11 22:34:28,434 [Thread-3] INFO  model.Character - x:30 y:236 vx:3 vy:0
+2020-10-11 22:34:28,534 [Thread-3] INFO  model.Character - x:239 y:243 vx:3 vy:0
+2020-10-11 22:34:28,534 [Thread-3] INFO  model.Character - x:30 y:236 vx:3 vy:0
+2020-10-11 22:34:28,634 [Thread-3] INFO  model.Character - x:257 y:243 vx:3 vy:0
+2020-10-11 22:34:28,634 [Thread-3] INFO  model.Character - x:30 y:236 vx:3 vy:0
+2020-10-11 22:34:28,734 [Thread-3] INFO  model.Character - x:275 y:244 vx:3 vy:0
+2020-10-11 22:34:28,734 [Thread-3] INFO  model.Character - x:30 y:236 vx:3 vy:0
+2020-10-11 22:34:28,834 [Thread-3] INFO  model.Character - x:296 y:245 vx:3 vy:0
+2020-10-11 22:34:28,834 [Thread-3] INFO  model.Character - x:30 y:236 vx:3 vy:0
+2020-10-11 22:34:29,534 [Thread-3] INFO  model.Character - x:314 y:246 vx:3 vy:0
+2020-10-11 22:34:29,534 [Thread-3] INFO  model.Character - x:30 y:236 vx:3 vy:0
+2020-10-11 22:34:29,634 [Thread-3] INFO  model.Character - x:335 y:246 vx:3 vy:0
+2020-10-11 22:34:29,634 [Thread-3] INFO  model.Character - x:30 y:236 vx:3 vy:0
+2020-10-11 22:34:29,734 [Thread-3] INFO  model.Character - x:353 y:247 vx:3 vy:0
+2020-10-11 22:34:29,734 [Thread-3] INFO  model.Character - x:30 y:236 vx:3 vy:0
+2020-10-11 22:34:29,835 [Thread-3] INFO  model.Character - x:371 y:248 vx:3 vy:0
+2020-10-11 22:34:29,835 [Thread-3] INFO  model.Character - x:30 y:236 vx:3 vy:0
+2020-10-11 22:34:29,935 [Thread-3] INFO  model.Character - x:389 y:249 vx:3 vy:0
+2020-10-11 22:34:29,935 [Thread-3] INFO  model.Character - x:30 y:236 vx:3 vy:0
+2020-10-11 22:34:30,035 [Thread-3] INFO  model.Character - x:410 y:250 vx:3 vy:0
+2020-10-11 22:34:30,035 [Thread-3] INFO  model.Character - x:30 y:236 vx:3 vy:0
+2020-10-11 22:34:30,335 [Thread-3] INFO  model.Character - x:428 y:252 vx:3 vy:0
+2020-10-11 22:34:30,335 [Thread-3] INFO  model.Character - x:30 y:236 vx:3 vy:0
+2020-10-11 22:34:30,435 [Thread-3] INFO  model.Character - x:407 y:252 vx:3 vy:0
+2020-10-11 22:34:30,435 [Thread-3] INFO  model.Character - x:30 y:236 vx:3 vy:0
+2020-10-11 22:34:32,035 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:32,035 [Thread-3] INFO  model.Character - x:30 y:238 vx:3 vy:0
+2020-10-11 22:34:32,135 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:32,135 [Thread-3] INFO  model.Character - x:66 y:238 vx:7 vy:0
+2020-10-11 22:34:32,235 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:32,235 [Thread-3] INFO  model.Character - x:108 y:238 vx:7 vy:0
+2020-10-11 22:34:32,335 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:32,335 [Thread-3] INFO  model.Character - x:150 y:238 vx:7 vy:0
+2020-10-11 22:34:32,435 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:32,435 [Thread-3] INFO  model.Character - x:199 y:238 vx:7 vy:0
+2020-10-11 22:34:32,535 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:32,535 [Thread-3] INFO  model.Character - x:241 y:238 vx:7 vy:0
+2020-10-11 22:34:32,635 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:32,635 [Thread-3] INFO  model.Character - x:283 y:238 vx:7 vy:0
+2020-10-11 22:34:32,735 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:32,735 [Thread-3] INFO  model.Character - x:325 y:238 vx:7 vy:0
+2020-10-11 22:34:32,835 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:32,835 [Thread-3] INFO  model.Character - x:374 y:238 vx:7 vy:0
+2020-10-11 22:34:32,935 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:32,935 [Thread-3] INFO  model.Character - x:416 y:238 vx:7 vy:0
+2020-10-11 22:34:33,035 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:33,035 [Thread-3] INFO  model.Character - x:458 y:238 vx:7 vy:0
+2020-10-11 22:34:33,135 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:33,135 [Thread-3] INFO  model.Character - x:416 y:238 vx:7 vy:0
+2020-10-11 22:34:33,235 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:33,235 [Thread-3] INFO  model.Character - x:367 y:238 vx:7 vy:0
+2020-10-11 22:34:33,335 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:33,335 [Thread-3] INFO  model.Character - x:325 y:238 vx:7 vy:0
+2020-10-11 22:34:33,435 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:33,435 [Thread-3] INFO  model.Character - x:283 y:238 vx:7 vy:0
+2020-10-11 22:34:33,535 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:33,535 [Thread-3] INFO  model.Character - x:241 y:238 vx:7 vy:0
+2020-10-11 22:34:33,635 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:33,635 [Thread-3] INFO  model.Character - x:192 y:238 vx:7 vy:0
+2020-10-11 22:34:33,735 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:33,735 [Thread-3] INFO  model.Character - x:150 y:238 vx:7 vy:0
+2020-10-11 22:34:33,835 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:33,835 [Thread-3] INFO  model.Character - x:192 y:238 vx:7 vy:0
+2020-10-11 22:34:33,935 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:33,935 [Thread-3] INFO  model.Character - x:234 y:238 vx:7 vy:0
+2020-10-11 22:34:34,035 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:34,035 [Thread-3] INFO  model.Character - x:283 y:238 vx:7 vy:0
+2020-10-11 22:34:34,135 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:34,135 [Thread-3] INFO  model.Character - x:325 y:238 vx:7 vy:0
+2020-10-11 22:34:34,235 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:34,235 [Thread-3] INFO  model.Character - x:367 y:238 vx:7 vy:0
+2020-10-11 22:34:34,336 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:34,336 [Thread-3] INFO  model.Character - x:409 y:238 vx:7 vy:0
+2020-10-11 22:34:34,436 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:34,436 [Thread-3] INFO  model.Character - x:458 y:238 vx:7 vy:0
+2020-10-11 22:34:34,636 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:34,636 [Thread-3] INFO  model.Character - x:500 y:238 vx:7 vy:0
+2020-10-11 22:34:34,736 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:34,736 [Thread-3] INFO  model.Character - x:458 y:238 vx:7 vy:0
+2020-10-11 22:34:34,836 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:34,836 [Thread-3] INFO  model.Character - x:409 y:238 vx:7 vy:0
+2020-10-11 22:34:34,936 [Thread-3] INFO  model.Character - x:389 y:252 vx:3 vy:0
+2020-10-11 22:34:34,936 [Thread-3] INFO  model.Character - x:367 y:238 vx:7 vy:0
+[ INFO] 2020-10-11 22:53:00 [time 4690 millisec] [Thread-3] Character - x:30 y:236 vx:3 vy:0
+[ INFO] 2020-10-11 22:53:00 [time 4692 millisec] [Thread-3] Character - x:30 y:236 vx:3 vy:0
+[ INFO] 2020-10-11 22:53:00 [time 4792 millisec] [Thread-3] Character - x:63 y:236 vx:6 vy:0
+[ INFO] 2020-10-11 22:53:00 [time 4792 millisec] [Thread-3] Character - x:30 y:236 vx:3 vy:0
+[ INFO] 2020-10-11 22:53:03 [time 8293 millisec] [Thread-3] Character - x:105 y:236 vx:6 vy:0
+[ INFO] 2020-10-11 22:53:03 [time 8293 millisec] [Thread-3] Character - x:30 y:236 vx:3 vy:0
+[ INFO] 2020-10-11 22:53:03 [time 8393 millisec] [Thread-3] Character - x:141 y:236 vx:6 vy:0
+[ INFO] 2020-10-11 22:53:03 [time 8393 millisec] [Thread-3] Character - x:30 y:236 vx:3 vy:0
+[ INFO] 2020-10-11 22:53:04 [time 8493 millisec] [Thread-3] Character - x:183 y:236 vx:6 vy:0
+[ INFO] 2020-10-11 22:53:04 [time 8493 millisec] [Thread-3] Character - x:30 y:236 vx:3 vy:0
+[ INFO] 22:53:47 [time 1846 millisec] [Thread-3] Character - x:30 y:238 vx:3 vy:0
+[ INFO] 22:53:47 [time 1847 millisec] [Thread-3] Character - x:30 y:238 vx:5 vy:0
+[ INFO] 22:53:47 [time 1949 millisec] [Thread-3] Character - x:66 y:238 vx:7 vy:0
+[ INFO] 22:53:47 [time 1949 millisec] [Thread-3] Character - x:30 y:238 vx:5 vy:0
+[ INFO] 22:53:47 [time 2049 millisec] [Thread-3] Character - x:108 y:236 vx:7 vy:0
+[ INFO] 22:53:47 [time 2049 millisec] [Thread-3] Character - x:30 y:238 vx:5 vy:0
+[ INFO] 22:53:49 [time 3349 millisec] [Thread-3] Character - x:157 y:242 vx:7 vy:0
+[ INFO] 22:53:49 [time 3349 millisec] [Thread-3] Character - x:30 y:238 vx:5 vy:0
+[ INFO] 22:53:49 [time 3449 millisec] [Thread-3] Character - x:115 y:242 vx:7 vy:0
+[ INFO] 22:53:49 [time 3449 millisec] [Thread-3] Character - x:30 y:238 vx:5 vy:0
+[ INFO] 22:58:10[method:trace][Line:144] [time 1653 millisec] [Thread-3] Character - x:30 y:162 vx:1 vy:3
+[ INFO] 22:58:10[method:trace][Line:144] [time 1655 millisec] [Thread-3] Character - x:30 y:244 vx:5 vy:0
+[ INFO] 22:58:10[method:trace][Line:144] [time 1755 millisec] [Thread-3] Character - x:55 y:183 vx:4 vy:3
+[ INFO] 22:58:10[method:trace][Line:144] [time 1755 millisec] [Thread-3] Character - x:30 y:244 vx:5 vy:0
+[ INFO] 22:58:13[method:trace][Line:144] [time 4857 millisec] [Thread-3] Character - x:79 y:237 vx:4 vy:0
+[ INFO] 22:58:13[method:trace][Line:144] [time 4857 millisec] [Thread-3] Character - x:30 y:244 vx:5 vy:0
+[ INFO] 22:58:13[method:trace][Line:144] [time 4957 millisec] [Thread-3] Character - x:103 y:237 vx:4 vy:0
+[ INFO] 22:58:13[method:trace][Line:144] [time 4957 millisec] [Thread-3] Character - x:30 y:244 vx:5 vy:0
+[ INFO] 22:58:15[method:trace][Line:144] [time 6657 millisec] [Thread-3] Character - x:127 y:237 vx:4 vy:0
+[ INFO] 22:58:15[method:trace][Line:144] [time 6657 millisec] [Thread-3] Character - x:30 y:244 vx:5 vy:0
+[ INFO] 22:58:16[method:trace][Line:144] [time 7057 millisec] [Thread-3] Character - x:103 y:237 vx:4 vy:0
+[ INFO] 22:58:16[method:trace][Line:144] [time 7057 millisec] [Thread-3] Character - x:30 y:244 vx:5 vy:0
+[ INFO] 22:58:16[method:trace][Line:144] [time 7157 millisec] [Thread-3] Character - x:127 y:237 vx:4 vy:0
+[ INFO] 22:58:16[method:trace][Line:144] [time 7157 millisec] [Thread-3] Character - x:30 y:244 vx:5 vy:0
+[ INFO] 22:58:16[method:trace][Line:144] [time 7457 millisec] [Thread-3] Character - x:155 y:237 vx:4 vy:0
+[ INFO] 22:58:16[method:trace][Line:144] [time 7457 millisec] [Thread-3] Character - x:30 y:244 vx:5 vy:0
+[ INFO] 22:58:22[method:trace][Line:144] [time 13659 millisec] [Thread-3] Character - x:179 y:237 vx:4 vy:0
+[ INFO] 22:58:22[method:trace][Line:144] [time 13659 millisec] [Thread-3] Character - x:30 y:244 vx:5 vy:0
+[ INFO] 22:58:23[method:trace][Line:144] [time 14859 millisec] [Thread-3] Character - x:155 y:237 vx:4 vy:0
+[ INFO] 22:58:23[method:trace][Line:144] [time 14859 millisec] [Thread-3] Character - x:30 y:244 vx:5 vy:0
+[ INFO] 15:59:24 {Line:144} [time 1996 millisec] [Thread-3] Character - x:30 y:220 vx:2 vy:3
+[ INFO] 15:59:24 {Line:144} [time 1998 millisec] [Thread-3] Character - x:30 y:244 vx:4 vy:0
+[ INFO] 15:59:24 {Line:144} [time 2098 millisec] [Thread-3] Character - x:66 y:238 vx:6 vy:0
+[ INFO] 15:59:24 {Line:144} [time 2098 millisec] [Thread-3] Character - x:30 y:244 vx:4 vy:0
+[ INFO] 15:59:25 {Line:144} [time 2198 millisec] [Thread-3] Character - x:102 y:238 vx:6 vy:0
+[ INFO] 15:59:25 {Line:144} [time 2198 millisec] [Thread-3] Character - x:30 y:244 vx:4 vy:0
+[ INFO] 15:59:25 {Line:144} [time 2298 millisec] [Thread-3] Character - x:138 y:238 vx:6 vy:0
+[ INFO] 15:59:25 {Line:144} [time 2299 millisec] [Thread-3] Character - x:30 y:244 vx:4 vy:0
+[ INFO] 15:59:25 {Line:144} [time 2399 millisec] [Thread-3] Character - x:174 y:238 vx:6 vy:0
+[ INFO] 15:59:25 {Line:144} [time 2399 millisec] [Thread-3] Character - x:30 y:244 vx:4 vy:0
+[ INFO] 15:59:26 {Line:144} [time 3499 millisec] [Thread-3] Character - x:216 y:238 vx:6 vy:0
+[ INFO] 15:59:26 {Line:144} [time 3499 millisec] [Thread-3] Character - x:30 y:244 vx:4 vy:0
+[ INFO] 15:59:26 {Line:144} [time 3599 millisec] [Thread-3] Character - x:180 y:238 vx:6 vy:0
+[ INFO] 15:59:26 {Line:144} [time 3599 millisec] [Thread-3] Character - x:30 y:244 vx:4 vy:0
+[ INFO] 15:59:26 {Line:144} [time 3699 millisec] [Thread-3] Character - x:138 y:238 vx:6 vy:0
+[ INFO] 15:59:26 {Line:144} [time 3699 millisec] [Thread-3] Character - x:30 y:244 vx:4 vy:0
+[ INFO] 15:59:26 {Line:144} [time 3799 millisec] [Thread-3] Character - x:174 y:238 vx:6 vy:0
+[ INFO] 15:59:26 {Line:144} [time 3799 millisec] [Thread-3] Character - x:30 y:244 vx:4 vy:0
+[ INFO] 15:59:26 {Line:144} [time 3899 millisec] [Thread-3] Character - x:210 y:238 vx:6 vy:0
+[ INFO] 15:59:26 {Line:144} [time 3899 millisec] [Thread-3] Character - x:30 y:244 vx:4 vy:0
+[ INFO] 15:59:27 {Line:144} [time 4199 millisec] [Thread-3] Character - x:246 y:238 vx:6 vy:0
+[ INFO] 15:59:27 {Line:144} [time 4199 millisec] [Thread-3] Character - x:30 y:244 vx:4 vy:0
+[ INFO] 15:59:27 {Line:144} [time 4299 millisec] [Thread-3] Character - x:210 y:238 vx:6 vy:0
+[ INFO] 15:59:27 {Line:144} [time 4299 millisec] [Thread-3] Character - x:30 y:244 vx:4 vy:0
+[ INFO] 15:59:27 {Line:144} [time 4399 millisec] [Thread-3] Character - x:168 y:238 vx:6 vy:0
+[ INFO] 15:59:27 {Line:144} [time 4399 millisec] [Thread-3] Character - x:30 y:244 vx:4 vy:0
+[ INFO] 15:59:27 {Line:144} [time 4499 millisec] [Thread-3] Character - x:204 y:238 vx:6 vy:0
+[ INFO] 15:59:27 {Line:144} [time 4499 millisec] [Thread-3] Character - x:30 y:244 vx:4 vy:0
+[ INFO] 15:59:28 {Line:144} [time 5302 millisec] [Thread-3] Character - x:240 y:238 vx:6 vy:0
+[ INFO] 15:59:28 {Line:144} [time 5302 millisec] [Thread-3] Character - x:30 y:244 vx:4 vy:0
+[ INFO] 15:59:28 {Line:144} [time 5402 millisec] [Thread-3] Character - x:204 y:238 vx:6 vy:0
+[ INFO] 15:59:28 {Line:144} [time 5402 millisec] [Thread-3] Character - x:30 y:244 vx:4 vy:0
+[ INFO] 22:59:51 [trace] [144] [time 2238 millisec] [Thread-3] Character - x:30 y:239 vx:4 vy:0
+[ INFO] 22:59:51 [trace] [144] [time 2240 millisec] [Thread-3] Character - x:30 y:237 vx:5 vy:0
+[ INFO] 22:59:51 [trace] [144] [time 2340 millisec] [Thread-3] Character - x:60 y:239 vx:5 vy:0
+[ INFO] 22:59:51 [trace] [144] [time 2340 millisec] [Thread-3] Character - x:30 y:237 vx:5 vy:0
+[ INFO] 22:59:51 [trace] [144] [time 2440 millisec] [Thread-3] Character - x:95 y:239 vx:5 vy:0
+[ INFO] 22:59:51 [trace] [144] [time 2440 millisec] [Thread-3] Character - x:30 y:237 vx:5 vy:0
+[ INFO] 22:59:51 [trace] [144] [time 2540 millisec] [Thread-3] Character - x:125 y:239 vx:5 vy:0
+[ INFO] 22:59:51 [trace] [144] [time 2540 millisec] [Thread-3] Character - x:30 y:237 vx:5 vy:0
+[ INFO] 22:59:53 [trace] [144] [time 4140 millisec] [Thread-3] Character - x:155 y:239 vx:5 vy:0
+[ INFO] 22:59:53 [trace] [144] [time 4140 millisec] [Thread-3] Character - x:30 y:237 vx:5 vy:0
+[ INFO] 22:59:53 [trace] [144] [time 4240 millisec] [Thread-3] Character - x:185 y:239 vx:5 vy:0
+[ INFO] 22:59:53 [trace] [144] [time 4240 millisec] [Thread-3] Character - x:30 y:237 vx:5 vy:0
+[ INFO] 22:59:53 [trace] [144] [time 4340 millisec] [Thread-3] Character - x:215 y:239 vx:5 vy:0
+[ INFO] 22:59:53 [trace] [144] [time 4340 millisec] [Thread-3] Character - x:30 y:237 vx:5 vy:0
+[ INFO] 22:59:53 [trace] [144] [time 4340 millisec] [Thread-3] Character - x:215 y:239 vx:5 vy:0
+[ INFO] 22:59:53 [trace] [144] [time 4340 millisec] [Thread-3] Character - x:30 y:237 vx:5 vy:0
+[ INFO] 22:59:53 [trace] [144] [time 4440 millisec] [Thread-3] Character - x:250 y:239 vx:5 vy:0
+[ INFO] 22:59:53 [trace] [144] [time 4440 millisec] [Thread-3] Character - x:30 y:237 vx:5 vy:0
+[ INFO] 22:59:53 [trace] [144] [time 4542 millisec] [Thread-3] Character - x:220 y:188 vx:5 vy:6
+[ INFO] 22:59:53 [trace] [144] [time 4542 millisec] [Thread-3] Character - x:30 y:237 vx:5 vy:0
+[ INFO] 22:59:53 [trace] [144] [time 4643 millisec] [Thread-3] Character - x:190 y:173 vx:5 vy:0
+[ INFO] 22:59:53 [trace] [144] [time 4643 millisec] [Thread-3] Character - x:30 y:237 vx:5 vy:0
+[ INFO] 23:00:07  [time 1535 millisec] [Thread-3] Character - x:30 y:239 vx:4 vy:0
+[ INFO] 23:00:07  [time 1537 millisec] [Thread-3] Character - x:30 y:42 vx:5 vy:1
+[ INFO] 23:00:07  [time 1637 millisec] [Thread-3] Character - x:44 y:239 vx:2 vy:0
+[ INFO] 23:00:07  [time 1637 millisec] [Thread-3] Character - x:30 y:49 vx:5 vy:1
+[ INFO] 23:00:07  [time 1737 millisec] [Thread-3] Character - x:56 y:239 vx:2 vy:0
+[ INFO] 23:00:07  [time 1737 millisec] [Thread-3] Character - x:30 y:55 vx:5 vy:1
+[ INFO] 23:00:07  [time 1837 millisec] [Thread-3] Character - x:68 y:239 vx:2 vy:0
+[ INFO] 23:00:07  [time 1837 millisec] [Thread-3] Character - x:30 y:61 vx:5 vy:1
+[ INFO] 23:00:07  [time 1937 millisec] [Thread-3] Character - x:80 y:239 vx:2 vy:0
+[ INFO] 23:00:07  [time 1937 millisec] [Thread-3] Character - x:30 y:67 vx:5 vy:1
+[ INFO] 23:00:12  [time 6840 millisec] [Thread-3] Character - x:94 y:239 vx:2 vy:0
+[ INFO] 23:00:12  [time 6840 millisec] [Thread-3] Character - x:30 y:236 vx:5 vy:0
+[ INFO] 23:00:26  [time 1688 millisec] [Thread-3] Character - x:30 y:244 vx:1 vy:0
+[ INFO] 23:00:26  [time 1691 millisec] [Thread-3] Character - x:30 y:246 vx:1 vy:0
+[ INFO] 23:00:26  [time 1791 millisec] [Thread-3] Character - x:50 y:244 vx:3 vy:0
+[ INFO] 23:00:26  [time 1791 millisec] [Thread-3] Character - x:30 y:246 vx:1 vy:0
+[ INFO] 23:00:26  [time 1891 millisec] [Thread-3] Character - x:68 y:244 vx:3 vy:0
+[ INFO] 23:00:26  [time 1891 millisec] [Thread-3] Character - x:30 y:246 vx:1 vy:0
+[ INFO] 23:00:26  [time 1991 millisec] [Thread-3] Character - x:86 y:244 vx:3 vy:0
+[ INFO] 23:00:26  [time 1991 millisec] [Thread-3] Character - x:30 y:246 vx:1 vy:0
+[ INFO] 23:00:27  [time 3291 millisec] [Thread-3] Character - x:107 y:244 vx:3 vy:0
+[ INFO] 23:00:27  [time 3291 millisec] [Thread-3] Character - x:30 y:246 vx:1 vy:0
+[ INFO] 23:00:27  [time 3391 millisec] [Thread-3] Character - x:125 y:244 vx:3 vy:0
+[ INFO] 23:00:27  [time 3391 millisec] [Thread-3] Character - x:30 y:246 vx:1 vy:0
+[ INFO] 23:00:27  [time 3491 millisec] [Thread-3] Character - x:143 y:231 vx:3 vy:2
+[ INFO] 23:00:27  [time 3491 millisec] [Thread-3] Character - x:30 y:246 vx:1 vy:0
+[ INFO] 23:00:28  [time 3591 millisec] [Thread-3] Character - x:125 y:241 vx:3 vy:0
+[ INFO] 23:00:28  [time 3591 millisec] [Thread-3] Character - x:30 y:246 vx:1 vy:0
+[ INFO] 23:00:28  [time 3691 millisec] [Thread-3] Character - x:104 y:232 vx:3 vy:4
+[ INFO] 23:00:28  [time 3691 millisec] [Thread-3] Character - x:30 y:246 vx:1 vy:0
+[ INFO] 23:00:28  [time 4191 millisec] [Thread-3] Character - x:86 y:238 vx:3 vy:0
+[ INFO] 23:00:28  [time 4191 millisec] [Thread-3] Character - x:30 y:246 vx:1 vy:0
+[ INFO] 23:00:28  [time 4291 millisec] [Thread-3] Character - x:104 y:238 vx:3 vy:0
+[ INFO] 23:00:28  [time 4291 millisec] [Thread-3] Character - x:30 y:246 vx:1 vy:0
+[ INFO] 23:00:28  [time 4392 millisec] [Thread-3] Character - x:122 y:225 vx:3 vy:2
+[ INFO] 23:00:28  [time 4392 millisec] [Thread-3] Character - x:30 y:246 vx:1 vy:0
+[ INFO] 23:00:28  [time 4492 millisec] [Thread-3] Character - x:143 y:243 vx:3 vy:0
+[ INFO] 23:00:28  [time 4492 millisec] [Thread-3] Character - x:30 y:246 vx:1 vy:0
+[ INFO] 23:00:29  [time 4593 millisec] [Thread-3] Character - x:125 y:243 vx:3 vy:0
+[ INFO] 23:00:29  [time 4593 millisec] [Thread-3] Character - x:30 y:246 vx:1 vy:0
+[ INFO] 23:00:29  [time 4693 millisec] [Thread-3] Character - x:107 y:243 vx:3 vy:0
+[ INFO] 23:00:29  [time 4693 millisec] [Thread-3] Character - x:30 y:246 vx:1 vy:0
+[ INFO] 23:00:29  [time 5093 millisec] [Thread-3] Character - x:89 y:243 vx:3 vy:0
+[ INFO] 23:00:29  [time 5093 millisec] [Thread-3] Character - x:30 y:246 vx:1 vy:0
+[ INFO] 23:00:29  [time 5193 millisec] [Thread-3] Character - x:107 y:243 vx:3 vy:0
+[ INFO] 23:00:29  [time 5193 millisec] [Thread-3] Character - x:30 y:246 vx:1 vy:0
+[ INFO] 23:00:29  [time 5293 millisec] [Thread-3] Character - x:128 y:234 vx:3 vy:4
+[ INFO] 23:00:29  [time 5293 millisec] [Thread-3] Character - x:30 y:246 vx:1 vy:0
+[ INFO] 23:00:29  [time 5393 millisec] [Thread-3] Character - x:146 y:240 vx:3 vy:0
+[ INFO] 23:00:29  [time 5393 millisec] [Thread-3] Character - x:30 y:246 vx:1 vy:0
+[ INFO] 23:00:29  [time 5493 millisec] [Thread-3] Character - x:128 y:240 vx:3 vy:0
+[ INFO] 23:00:29  [time 5493 millisec] [Thread-3] Character - x:30 y:246 vx:1 vy:0
+[ INFO] 23:00:30  [time 5593 millisec] [Thread-3] Character - x:110 y:240 vx:3 vy:0
+[ INFO] 23:00:30  [time 5593 millisec] [Thread-3] Character - x:30 y:246 vx:1 vy:0
+[ INFO] 23:00:30  [time 6093 millisec] [Thread-3] Character - x:89 y:240 vx:3 vy:0
+[ INFO] 23:00:30  [time 6093 millisec] [Thread-3] Character - x:30 y:246 vx:1 vy:0
+[ INFO] 23:00:30  [time 6193 millisec] [Thread-3] Character - x:107 y:227 vx:3 vy:2
+[ INFO] 23:00:30  [time 6193 millisec] [Thread-3] Character - x:30 y:246 vx:1 vy:0
+[ INFO] 23:00:30  [time 6293 millisec] [Thread-3] Character - x:125 y:237 vx:3 vy:0
+[ INFO] 23:00:30  [time 6293 millisec] [Thread-3] Character - x:30 y:246 vx:1 vy:0
+[ INFO] 23:00:30  [time 6493 millisec] [Thread-3] Character - x:143 y:242 vx:3 vy:0
+[ INFO] 23:00:30  [time 6493 millisec] [Thread-3] Character - x:30 y:246 vx:1 vy:0
+[ INFO] 23:00:31  [time 6593 millisec] [Thread-3] Character - x:125 y:242 vx:3 vy:0
+[ INFO] 23:00:31  [time 6593 millisec] [Thread-3] Character - x:30 y:246 vx:1 vy:0
