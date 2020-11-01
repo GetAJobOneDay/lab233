@@ -1,0 +1,7 @@
+model\Snake.class
+model\Food.class
+view\Platform.class
+controller\JarLauncher.class
+controller\GameLoop.class
+model\Direction.class
+controller\Launcher.class
